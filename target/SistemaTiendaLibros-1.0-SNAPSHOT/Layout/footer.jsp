@@ -1,0 +1,15 @@
+</div> <!-- cierre page-content-wrapper -->
+
+
+</div> <!-- cierre wrapper -->
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+
+
+<script src="${pageContext.request.contextPath}/js/scripts.js"></script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/SistemaTiendaLibros">
+<Resource
+    name="jdbc/DBPuntoYComa"
+    auth="Container"
+    type="javax.sql.DataSource"
+    driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+    url="jdbc:sqlserver://localhost:1434;databaseName=DB_PuntoYComa;encrypt=true;trustServerCertificate=true"
+    username="app_puntoycoma"
+    password="123456"
+    maxTotal="100"
+    maxIdle="10"
+    minIdle="5"
+    maxWaitMillis="10000"/>
+</Context>
